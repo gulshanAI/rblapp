@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144730477386",
+    "project_id": "royalbengal-7a94c",
+    "storage_bucket": "royalbengal-7a94c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144730477386:android:68b71c6f77de95faffe7b3",
+        "android_client_info": {
+          "package_name": "com.touchmediaads.rblapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144730477386-8copq4n6ipkt3qvvl58midsrcj2da9le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1TRHo8ClgLYWEs6OconWyjtVNVvzIiCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144730477386-8copq4n6ipkt3qvvl58midsrcj2da9le.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
